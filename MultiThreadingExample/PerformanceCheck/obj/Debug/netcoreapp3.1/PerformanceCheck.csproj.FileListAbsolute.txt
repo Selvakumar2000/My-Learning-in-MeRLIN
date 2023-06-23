@@ -1,0 +1,13 @@
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheck\bin\Debug\netcoreapp3.1\PerformanceCheck.exe
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheck\bin\Debug\netcoreapp3.1\PerformanceCheck.deps.json
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheck\bin\Debug\netcoreapp3.1\PerformanceCheck.runtimeconfig.json
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheck\bin\Debug\netcoreapp3.1\PerformanceCheck.runtimeconfig.dev.json
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheck\bin\Debug\netcoreapp3.1\PerformanceCheck.dll
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheck\bin\Debug\netcoreapp3.1\PerformanceCheck.pdb
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheck\obj\Debug\netcoreapp3.1\PerformanceCheck.AssemblyInfoInputs.cache
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheck\obj\Debug\netcoreapp3.1\PerformanceCheck.AssemblyInfo.cs
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheck\obj\Debug\netcoreapp3.1\PerformanceCheck.csproj.CoreCompileInputs.cache
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheck\obj\Debug\netcoreapp3.1\PerformanceCheck.dll
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheck\obj\Debug\netcoreapp3.1\PerformanceCheck.pdb
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheck\obj\Debug\netcoreapp3.1\PerformanceCheck.genruntimeconfig.cache
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheck\obj\Debug\netcoreapp3.1\PerformanceCheck.csproj.AssemblyReference.cache

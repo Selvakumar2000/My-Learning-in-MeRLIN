@@ -1,0 +1,13 @@
+C:\Users\RB00271\source\repos\MultiThreadingExample\DeadlockExample\bin\Debug\netcoreapp3.1\DeadlockExample.exe
+C:\Users\RB00271\source\repos\MultiThreadingExample\DeadlockExample\bin\Debug\netcoreapp3.1\DeadlockExample.deps.json
+C:\Users\RB00271\source\repos\MultiThreadingExample\DeadlockExample\bin\Debug\netcoreapp3.1\DeadlockExample.runtimeconfig.json
+C:\Users\RB00271\source\repos\MultiThreadingExample\DeadlockExample\bin\Debug\netcoreapp3.1\DeadlockExample.runtimeconfig.dev.json
+C:\Users\RB00271\source\repos\MultiThreadingExample\DeadlockExample\bin\Debug\netcoreapp3.1\DeadlockExample.dll
+C:\Users\RB00271\source\repos\MultiThreadingExample\DeadlockExample\bin\Debug\netcoreapp3.1\DeadlockExample.pdb
+C:\Users\RB00271\source\repos\MultiThreadingExample\DeadlockExample\obj\Debug\netcoreapp3.1\DeadlockExample.csproj.AssemblyReference.cache
+C:\Users\RB00271\source\repos\MultiThreadingExample\DeadlockExample\obj\Debug\netcoreapp3.1\DeadlockExample.AssemblyInfoInputs.cache
+C:\Users\RB00271\source\repos\MultiThreadingExample\DeadlockExample\obj\Debug\netcoreapp3.1\DeadlockExample.AssemblyInfo.cs
+C:\Users\RB00271\source\repos\MultiThreadingExample\DeadlockExample\obj\Debug\netcoreapp3.1\DeadlockExample.csproj.CoreCompileInputs.cache
+C:\Users\RB00271\source\repos\MultiThreadingExample\DeadlockExample\obj\Debug\netcoreapp3.1\DeadlockExample.dll
+C:\Users\RB00271\source\repos\MultiThreadingExample\DeadlockExample\obj\Debug\netcoreapp3.1\DeadlockExample.pdb
+C:\Users\RB00271\source\repos\MultiThreadingExample\DeadlockExample\obj\Debug\netcoreapp3.1\DeadlockExample.genruntimeconfig.cache

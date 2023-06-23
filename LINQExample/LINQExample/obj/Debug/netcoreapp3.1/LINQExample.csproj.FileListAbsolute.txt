@@ -1,0 +1,13 @@
+C:\Users\RB00271\source\repos\LINQExample\LINQExample\bin\Debug\netcoreapp3.1\LINQExample.exe
+C:\Users\RB00271\source\repos\LINQExample\LINQExample\bin\Debug\netcoreapp3.1\LINQExample.deps.json
+C:\Users\RB00271\source\repos\LINQExample\LINQExample\bin\Debug\netcoreapp3.1\LINQExample.runtimeconfig.json
+C:\Users\RB00271\source\repos\LINQExample\LINQExample\bin\Debug\netcoreapp3.1\LINQExample.runtimeconfig.dev.json
+C:\Users\RB00271\source\repos\LINQExample\LINQExample\bin\Debug\netcoreapp3.1\LINQExample.dll
+C:\Users\RB00271\source\repos\LINQExample\LINQExample\bin\Debug\netcoreapp3.1\LINQExample.pdb
+C:\Users\RB00271\source\repos\LINQExample\LINQExample\obj\Debug\netcoreapp3.1\LINQExample.csproj.AssemblyReference.cache
+C:\Users\RB00271\source\repos\LINQExample\LINQExample\obj\Debug\netcoreapp3.1\LINQExample.AssemblyInfoInputs.cache
+C:\Users\RB00271\source\repos\LINQExample\LINQExample\obj\Debug\netcoreapp3.1\LINQExample.AssemblyInfo.cs
+C:\Users\RB00271\source\repos\LINQExample\LINQExample\obj\Debug\netcoreapp3.1\LINQExample.csproj.CoreCompileInputs.cache
+C:\Users\RB00271\source\repos\LINQExample\LINQExample\obj\Debug\netcoreapp3.1\LINQExample.dll
+C:\Users\RB00271\source\repos\LINQExample\LINQExample\obj\Debug\netcoreapp3.1\LINQExample.pdb
+C:\Users\RB00271\source\repos\LINQExample\LINQExample\obj\Debug\netcoreapp3.1\LINQExample.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\RB00271\source\repos\CSharpLearning\CSharpLearning\bin\Debug\netcoreapp3.1\CSharpLearning.exe
+C:\Users\RB00271\source\repos\CSharpLearning\CSharpLearning\bin\Debug\netcoreapp3.1\CSharpLearning.deps.json
+C:\Users\RB00271\source\repos\CSharpLearning\CSharpLearning\bin\Debug\netcoreapp3.1\CSharpLearning.runtimeconfig.json
+C:\Users\RB00271\source\repos\CSharpLearning\CSharpLearning\bin\Debug\netcoreapp3.1\CSharpLearning.runtimeconfig.dev.json
+C:\Users\RB00271\source\repos\CSharpLearning\CSharpLearning\bin\Debug\netcoreapp3.1\CSharpLearning.dll
+C:\Users\RB00271\source\repos\CSharpLearning\CSharpLearning\bin\Debug\netcoreapp3.1\CSharpLearning.pdb
+C:\Users\RB00271\source\repos\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp3.1\CSharpLearning.csproj.AssemblyReference.cache
+C:\Users\RB00271\source\repos\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp3.1\CSharpLearning.AssemblyInfoInputs.cache
+C:\Users\RB00271\source\repos\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp3.1\CSharpLearning.AssemblyInfo.cs
+C:\Users\RB00271\source\repos\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp3.1\CSharpLearning.csproj.CoreCompileInputs.cache
+C:\Users\RB00271\source\repos\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp3.1\CSharpLearning.dll
+C:\Users\RB00271\source\repos\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp3.1\CSharpLearning.pdb
+C:\Users\RB00271\source\repos\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp3.1\CSharpLearning.genruntimeconfig.cache

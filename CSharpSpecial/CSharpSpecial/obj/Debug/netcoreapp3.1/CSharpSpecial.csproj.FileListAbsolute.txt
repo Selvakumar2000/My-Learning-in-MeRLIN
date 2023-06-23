@@ -1,0 +1,13 @@
+C:\Users\RB00271\source\repos\CSharpSpecial\CSharpSpecial\bin\Debug\netcoreapp3.1\CSharpSpecial.exe
+C:\Users\RB00271\source\repos\CSharpSpecial\CSharpSpecial\bin\Debug\netcoreapp3.1\CSharpSpecial.deps.json
+C:\Users\RB00271\source\repos\CSharpSpecial\CSharpSpecial\bin\Debug\netcoreapp3.1\CSharpSpecial.runtimeconfig.json
+C:\Users\RB00271\source\repos\CSharpSpecial\CSharpSpecial\bin\Debug\netcoreapp3.1\CSharpSpecial.runtimeconfig.dev.json
+C:\Users\RB00271\source\repos\CSharpSpecial\CSharpSpecial\bin\Debug\netcoreapp3.1\CSharpSpecial.dll
+C:\Users\RB00271\source\repos\CSharpSpecial\CSharpSpecial\bin\Debug\netcoreapp3.1\CSharpSpecial.pdb
+C:\Users\RB00271\source\repos\CSharpSpecial\CSharpSpecial\obj\Debug\netcoreapp3.1\CSharpSpecial.csproj.AssemblyReference.cache
+C:\Users\RB00271\source\repos\CSharpSpecial\CSharpSpecial\obj\Debug\netcoreapp3.1\CSharpSpecial.AssemblyInfoInputs.cache
+C:\Users\RB00271\source\repos\CSharpSpecial\CSharpSpecial\obj\Debug\netcoreapp3.1\CSharpSpecial.AssemblyInfo.cs
+C:\Users\RB00271\source\repos\CSharpSpecial\CSharpSpecial\obj\Debug\netcoreapp3.1\CSharpSpecial.csproj.CoreCompileInputs.cache
+C:\Users\RB00271\source\repos\CSharpSpecial\CSharpSpecial\obj\Debug\netcoreapp3.1\CSharpSpecial.dll
+C:\Users\RB00271\source\repos\CSharpSpecial\CSharpSpecial\obj\Debug\netcoreapp3.1\CSharpSpecial.pdb
+C:\Users\RB00271\source\repos\CSharpSpecial\CSharpSpecial\obj\Debug\netcoreapp3.1\CSharpSpecial.genruntimeconfig.cache

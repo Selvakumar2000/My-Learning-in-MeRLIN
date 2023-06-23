@@ -1,0 +1,13 @@
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousMethodWorking\bin\Debug\netcoreapp3.1\AnonymousMethodWorking.exe
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousMethodWorking\bin\Debug\netcoreapp3.1\AnonymousMethodWorking.deps.json
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousMethodWorking\bin\Debug\netcoreapp3.1\AnonymousMethodWorking.runtimeconfig.json
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousMethodWorking\bin\Debug\netcoreapp3.1\AnonymousMethodWorking.runtimeconfig.dev.json
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousMethodWorking\bin\Debug\netcoreapp3.1\AnonymousMethodWorking.dll
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousMethodWorking\bin\Debug\netcoreapp3.1\AnonymousMethodWorking.pdb
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousMethodWorking\obj\Debug\netcoreapp3.1\AnonymousMethodWorking.csproj.AssemblyReference.cache
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousMethodWorking\obj\Debug\netcoreapp3.1\AnonymousMethodWorking.AssemblyInfoInputs.cache
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousMethodWorking\obj\Debug\netcoreapp3.1\AnonymousMethodWorking.AssemblyInfo.cs
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousMethodWorking\obj\Debug\netcoreapp3.1\AnonymousMethodWorking.csproj.CoreCompileInputs.cache
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousMethodWorking\obj\Debug\netcoreapp3.1\AnonymousMethodWorking.dll
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousMethodWorking\obj\Debug\netcoreapp3.1\AnonymousMethodWorking.pdb
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousMethodWorking\obj\Debug\netcoreapp3.1\AnonymousMethodWorking.genruntimeconfig.cache

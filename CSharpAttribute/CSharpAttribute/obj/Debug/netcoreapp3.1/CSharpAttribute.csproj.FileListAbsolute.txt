@@ -1,0 +1,13 @@
+C:\Users\RB00271\source\repos\CSharpAttribute\CSharpAttribute\bin\Debug\netcoreapp3.1\CSharpAttribute.exe
+C:\Users\RB00271\source\repos\CSharpAttribute\CSharpAttribute\bin\Debug\netcoreapp3.1\CSharpAttribute.deps.json
+C:\Users\RB00271\source\repos\CSharpAttribute\CSharpAttribute\bin\Debug\netcoreapp3.1\CSharpAttribute.runtimeconfig.json
+C:\Users\RB00271\source\repos\CSharpAttribute\CSharpAttribute\bin\Debug\netcoreapp3.1\CSharpAttribute.runtimeconfig.dev.json
+C:\Users\RB00271\source\repos\CSharpAttribute\CSharpAttribute\bin\Debug\netcoreapp3.1\CSharpAttribute.dll
+C:\Users\RB00271\source\repos\CSharpAttribute\CSharpAttribute\bin\Debug\netcoreapp3.1\CSharpAttribute.pdb
+C:\Users\RB00271\source\repos\CSharpAttribute\CSharpAttribute\obj\Debug\netcoreapp3.1\CSharpAttribute.csproj.AssemblyReference.cache
+C:\Users\RB00271\source\repos\CSharpAttribute\CSharpAttribute\obj\Debug\netcoreapp3.1\CSharpAttribute.AssemblyInfoInputs.cache
+C:\Users\RB00271\source\repos\CSharpAttribute\CSharpAttribute\obj\Debug\netcoreapp3.1\CSharpAttribute.AssemblyInfo.cs
+C:\Users\RB00271\source\repos\CSharpAttribute\CSharpAttribute\obj\Debug\netcoreapp3.1\CSharpAttribute.csproj.CoreCompileInputs.cache
+C:\Users\RB00271\source\repos\CSharpAttribute\CSharpAttribute\obj\Debug\netcoreapp3.1\CSharpAttribute.dll
+C:\Users\RB00271\source\repos\CSharpAttribute\CSharpAttribute\obj\Debug\netcoreapp3.1\CSharpAttribute.pdb
+C:\Users\RB00271\source\repos\CSharpAttribute\CSharpAttribute\obj\Debug\netcoreapp3.1\CSharpAttribute.genruntimeconfig.cache

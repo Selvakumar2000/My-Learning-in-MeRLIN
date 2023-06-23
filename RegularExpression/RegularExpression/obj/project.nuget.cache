@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "drwwl2o8DcXbpoJpIChL6Wn43mF+PUOHfuqR1U2BQylC/7TzByOXEVxIagoopVEZx9KFCW9JPIRzBDKEHfHWZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RB00271\\source\\repos\\RegularExpression\\RegularExpression\\RegularExpression.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RB00271\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

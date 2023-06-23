@@ -1,0 +1,13 @@
+C:\Users\RB00271\source\repos\MultiThreadingExample\SharedResourceExample\bin\Debug\netcoreapp3.1\SharedResourceExample.exe
+C:\Users\RB00271\source\repos\MultiThreadingExample\SharedResourceExample\bin\Debug\netcoreapp3.1\SharedResourceExample.deps.json
+C:\Users\RB00271\source\repos\MultiThreadingExample\SharedResourceExample\bin\Debug\netcoreapp3.1\SharedResourceExample.runtimeconfig.json
+C:\Users\RB00271\source\repos\MultiThreadingExample\SharedResourceExample\bin\Debug\netcoreapp3.1\SharedResourceExample.runtimeconfig.dev.json
+C:\Users\RB00271\source\repos\MultiThreadingExample\SharedResourceExample\bin\Debug\netcoreapp3.1\SharedResourceExample.dll
+C:\Users\RB00271\source\repos\MultiThreadingExample\SharedResourceExample\bin\Debug\netcoreapp3.1\SharedResourceExample.pdb
+C:\Users\RB00271\source\repos\MultiThreadingExample\SharedResourceExample\obj\Debug\netcoreapp3.1\SharedResourceExample.csproj.AssemblyReference.cache
+C:\Users\RB00271\source\repos\MultiThreadingExample\SharedResourceExample\obj\Debug\netcoreapp3.1\SharedResourceExample.AssemblyInfoInputs.cache
+C:\Users\RB00271\source\repos\MultiThreadingExample\SharedResourceExample\obj\Debug\netcoreapp3.1\SharedResourceExample.AssemblyInfo.cs
+C:\Users\RB00271\source\repos\MultiThreadingExample\SharedResourceExample\obj\Debug\netcoreapp3.1\SharedResourceExample.csproj.CoreCompileInputs.cache
+C:\Users\RB00271\source\repos\MultiThreadingExample\SharedResourceExample\obj\Debug\netcoreapp3.1\SharedResourceExample.dll
+C:\Users\RB00271\source\repos\MultiThreadingExample\SharedResourceExample\obj\Debug\netcoreapp3.1\SharedResourceExample.pdb
+C:\Users\RB00271\source\repos\MultiThreadingExample\SharedResourceExample\obj\Debug\netcoreapp3.1\SharedResourceExample.genruntimeconfig.cache

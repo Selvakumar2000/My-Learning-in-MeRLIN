@@ -1,0 +1,13 @@
+C:\Users\RB00271\source\repos\CollectionExample\CollectionExample\bin\Debug\netcoreapp3.1\CollectionExample.exe
+C:\Users\RB00271\source\repos\CollectionExample\CollectionExample\bin\Debug\netcoreapp3.1\CollectionExample.deps.json
+C:\Users\RB00271\source\repos\CollectionExample\CollectionExample\bin\Debug\netcoreapp3.1\CollectionExample.runtimeconfig.json
+C:\Users\RB00271\source\repos\CollectionExample\CollectionExample\bin\Debug\netcoreapp3.1\CollectionExample.runtimeconfig.dev.json
+C:\Users\RB00271\source\repos\CollectionExample\CollectionExample\bin\Debug\netcoreapp3.1\CollectionExample.dll
+C:\Users\RB00271\source\repos\CollectionExample\CollectionExample\bin\Debug\netcoreapp3.1\CollectionExample.pdb
+C:\Users\RB00271\source\repos\CollectionExample\CollectionExample\obj\Debug\netcoreapp3.1\CollectionExample.csproj.AssemblyReference.cache
+C:\Users\RB00271\source\repos\CollectionExample\CollectionExample\obj\Debug\netcoreapp3.1\CollectionExample.AssemblyInfoInputs.cache
+C:\Users\RB00271\source\repos\CollectionExample\CollectionExample\obj\Debug\netcoreapp3.1\CollectionExample.AssemblyInfo.cs
+C:\Users\RB00271\source\repos\CollectionExample\CollectionExample\obj\Debug\netcoreapp3.1\CollectionExample.csproj.CoreCompileInputs.cache
+C:\Users\RB00271\source\repos\CollectionExample\CollectionExample\obj\Debug\netcoreapp3.1\CollectionExample.dll
+C:\Users\RB00271\source\repos\CollectionExample\CollectionExample\obj\Debug\netcoreapp3.1\CollectionExample.pdb
+C:\Users\RB00271\source\repos\CollectionExample\CollectionExample\obj\Debug\netcoreapp3.1\CollectionExample.genruntimeconfig.cache

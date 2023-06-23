@@ -1,0 +1,13 @@
+C:\Users\RB00271\source\repos\CSharpLearning2\CSharpLearning2\bin\Debug\netcoreapp3.1\CSharpLearning2.exe
+C:\Users\RB00271\source\repos\CSharpLearning2\CSharpLearning2\bin\Debug\netcoreapp3.1\CSharpLearning2.deps.json
+C:\Users\RB00271\source\repos\CSharpLearning2\CSharpLearning2\bin\Debug\netcoreapp3.1\CSharpLearning2.runtimeconfig.json
+C:\Users\RB00271\source\repos\CSharpLearning2\CSharpLearning2\bin\Debug\netcoreapp3.1\CSharpLearning2.runtimeconfig.dev.json
+C:\Users\RB00271\source\repos\CSharpLearning2\CSharpLearning2\bin\Debug\netcoreapp3.1\CSharpLearning2.dll
+C:\Users\RB00271\source\repos\CSharpLearning2\CSharpLearning2\bin\Debug\netcoreapp3.1\CSharpLearning2.pdb
+C:\Users\RB00271\source\repos\CSharpLearning2\CSharpLearning2\obj\Debug\netcoreapp3.1\CSharpLearning2.csproj.AssemblyReference.cache
+C:\Users\RB00271\source\repos\CSharpLearning2\CSharpLearning2\obj\Debug\netcoreapp3.1\CSharpLearning2.AssemblyInfoInputs.cache
+C:\Users\RB00271\source\repos\CSharpLearning2\CSharpLearning2\obj\Debug\netcoreapp3.1\CSharpLearning2.AssemblyInfo.cs
+C:\Users\RB00271\source\repos\CSharpLearning2\CSharpLearning2\obj\Debug\netcoreapp3.1\CSharpLearning2.csproj.CoreCompileInputs.cache
+C:\Users\RB00271\source\repos\CSharpLearning2\CSharpLearning2\obj\Debug\netcoreapp3.1\CSharpLearning2.dll
+C:\Users\RB00271\source\repos\CSharpLearning2\CSharpLearning2\obj\Debug\netcoreapp3.1\CSharpLearning2.pdb
+C:\Users\RB00271\source\repos\CSharpLearning2\CSharpLearning2\obj\Debug\netcoreapp3.1\CSharpLearning2.genruntimeconfig.cache

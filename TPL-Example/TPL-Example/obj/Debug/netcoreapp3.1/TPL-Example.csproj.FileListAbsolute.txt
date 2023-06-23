@@ -1,0 +1,13 @@
+C:\Users\RB00271\source\repos\TPL-Example\TPL-Example\bin\Debug\netcoreapp3.1\TPL-Example.exe
+C:\Users\RB00271\source\repos\TPL-Example\TPL-Example\bin\Debug\netcoreapp3.1\TPL-Example.deps.json
+C:\Users\RB00271\source\repos\TPL-Example\TPL-Example\bin\Debug\netcoreapp3.1\TPL-Example.runtimeconfig.json
+C:\Users\RB00271\source\repos\TPL-Example\TPL-Example\bin\Debug\netcoreapp3.1\TPL-Example.runtimeconfig.dev.json
+C:\Users\RB00271\source\repos\TPL-Example\TPL-Example\bin\Debug\netcoreapp3.1\TPL-Example.dll
+C:\Users\RB00271\source\repos\TPL-Example\TPL-Example\bin\Debug\netcoreapp3.1\TPL-Example.pdb
+C:\Users\RB00271\source\repos\TPL-Example\TPL-Example\obj\Debug\netcoreapp3.1\TPL-Example.csproj.AssemblyReference.cache
+C:\Users\RB00271\source\repos\TPL-Example\TPL-Example\obj\Debug\netcoreapp3.1\TPL-Example.AssemblyInfoInputs.cache
+C:\Users\RB00271\source\repos\TPL-Example\TPL-Example\obj\Debug\netcoreapp3.1\TPL-Example.AssemblyInfo.cs
+C:\Users\RB00271\source\repos\TPL-Example\TPL-Example\obj\Debug\netcoreapp3.1\TPL-Example.csproj.CoreCompileInputs.cache
+C:\Users\RB00271\source\repos\TPL-Example\TPL-Example\obj\Debug\netcoreapp3.1\TPL-Example.dll
+C:\Users\RB00271\source\repos\TPL-Example\TPL-Example\obj\Debug\netcoreapp3.1\TPL-Example.pdb
+C:\Users\RB00271\source\repos\TPL-Example\TPL-Example\obj\Debug\netcoreapp3.1\TPL-Example.genruntimeconfig.cache

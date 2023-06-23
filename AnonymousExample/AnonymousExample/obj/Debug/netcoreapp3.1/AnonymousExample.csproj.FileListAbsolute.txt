@@ -1,0 +1,13 @@
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousExample\bin\Debug\netcoreapp3.1\AnonymousExample.exe
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousExample\bin\Debug\netcoreapp3.1\AnonymousExample.deps.json
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousExample\bin\Debug\netcoreapp3.1\AnonymousExample.runtimeconfig.json
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousExample\bin\Debug\netcoreapp3.1\AnonymousExample.runtimeconfig.dev.json
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousExample\bin\Debug\netcoreapp3.1\AnonymousExample.dll
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousExample\bin\Debug\netcoreapp3.1\AnonymousExample.pdb
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousExample\obj\Debug\netcoreapp3.1\AnonymousExample.csproj.AssemblyReference.cache
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousExample\obj\Debug\netcoreapp3.1\AnonymousExample.AssemblyInfoInputs.cache
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousExample\obj\Debug\netcoreapp3.1\AnonymousExample.AssemblyInfo.cs
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousExample\obj\Debug\netcoreapp3.1\AnonymousExample.csproj.CoreCompileInputs.cache
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousExample\obj\Debug\netcoreapp3.1\AnonymousExample.dll
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousExample\obj\Debug\netcoreapp3.1\AnonymousExample.pdb
+C:\Users\RB00271\source\repos\AnonymousExample\AnonymousExample\obj\Debug\netcoreapp3.1\AnonymousExample.genruntimeconfig.cache

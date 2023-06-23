@@ -1,0 +1,12 @@
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheckUsingMT\bin\Debug\netcoreapp3.1\PerformanceCheckUsingMT.exe
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheckUsingMT\bin\Debug\netcoreapp3.1\PerformanceCheckUsingMT.deps.json
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheckUsingMT\bin\Debug\netcoreapp3.1\PerformanceCheckUsingMT.runtimeconfig.json
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheckUsingMT\bin\Debug\netcoreapp3.1\PerformanceCheckUsingMT.runtimeconfig.dev.json
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheckUsingMT\bin\Debug\netcoreapp3.1\PerformanceCheckUsingMT.dll
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheckUsingMT\bin\Debug\netcoreapp3.1\PerformanceCheckUsingMT.pdb
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheckUsingMT\obj\Debug\netcoreapp3.1\PerformanceCheckUsingMT.AssemblyInfoInputs.cache
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheckUsingMT\obj\Debug\netcoreapp3.1\PerformanceCheckUsingMT.AssemblyInfo.cs
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheckUsingMT\obj\Debug\netcoreapp3.1\PerformanceCheckUsingMT.csproj.CoreCompileInputs.cache
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheckUsingMT\obj\Debug\netcoreapp3.1\PerformanceCheckUsingMT.dll
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheckUsingMT\obj\Debug\netcoreapp3.1\PerformanceCheckUsingMT.pdb
+C:\Users\RB00271\source\repos\MultiThreadingExample\PerformanceCheckUsingMT\obj\Debug\netcoreapp3.1\PerformanceCheckUsingMT.genruntimeconfig.cache
